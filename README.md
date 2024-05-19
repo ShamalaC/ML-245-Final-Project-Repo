@@ -6,10 +6,10 @@
 Group 06
 Shubham Pravin Patil, 
 Shamala Chandrappa, 
-Shabari Vignesh, 
+Shabari Vignesh,
 Shreya Chilumukuru,
 Sowmya Neela
-Department of Applied Data Science
+Department of Applied Data Science
 San Jose State University
 
 
