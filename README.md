@@ -12,4 +12,8 @@ Sowmya Neela
 Department of Applied Data Science
 San Jose State University
 
+Dataset source : https://ieee-dataport.org/documents/dnp3-intrusion-detection-dataset
+
+Cleaned and Preprocessed dataset : https://drive.google.com/file/d/1bBVPtFhatXYnjcRxNB5g0zwb7sapEkyd/view?usp=drive_link
+
 
