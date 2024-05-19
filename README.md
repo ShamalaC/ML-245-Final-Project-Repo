@@ -64,12 +64,12 @@ distribution and Class Distribution.
 regular and malicious network activities with the help of Filter Methods, Wrapper Methods and
 Embedded approaches.
 
-# Base Models:Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) and Logistic Regression.
+# Base Models:Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) and Naive Bayes.
 These models offer interpretability, robust classification, and efficient handling of high-dimensional
 data, making them suitable for identifying intrusion patterns.
-Ensemble Models: Random Forest, Gradient Boosting Machines (GBM) - LightGBM and CATBoost,
-Multilayer Perceptron (MLP), Graph Neural Networks, Deep Belief Networks and Long Short-Term
-Memory (LSTM). These models combine multiple learners to improve performance and robustness
+
+# Ensemble Models: Decision Tree, Random Forest, Gradient Boosting Machines (GBM) - XGBoost and CATBoost, Multilayer Perceptron (MLP), Graph Neural Networks - Long Short-Term. 
+These models combine multiple learners to improve performance and robustness
 against noise, enhancing accuracy in identifying instances of intrusion. They also automatically extract
 relevant features and capture temporal dependencies in network traffic data, enabling effective detection
 of intricate intrusion patterns. Aiming to implement all of these and will compare and choose the best
